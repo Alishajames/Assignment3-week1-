@@ -1,2 +1,2 @@
 # Assignment3-week1-
-on 27 march String Manipulation, Math's Operations, list Operations , Dictionary Operations , Tuple Operations
+On 27 march String Manipulation, Math's Operations, list Operations , Dictionary Operations , Tuple Operations
